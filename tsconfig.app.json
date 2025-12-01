@@ -25,5 +25,5 @@
     // "erasableSyntaxOnly": true, // не поддерживается TypeScript
     // "noUncheckedSideEffectImports": true // не поддерживается TypeScript
   },
-  "include": ["src"]
+  "include": ["src", "src/types"]
 }
